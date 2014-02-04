@@ -1,5 +1,5 @@
 //
-//  MyScene.h
+//  StartScene.h
 //  Parkour
 //
 
@@ -8,6 +8,6 @@
 
 #import <SpriteKit/SpriteKit.h>
 
-@interface MyScene : SKScene
-
+@interface StartScene : SKScene
+- (id)initWithSize:(CGSize)size showRestartButton:(BOOL)display;
 @end
