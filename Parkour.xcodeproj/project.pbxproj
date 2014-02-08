@@ -38,7 +38,6 @@
 		231CF54F9060A7B287D831C0 /* runnerJumpUp2.png in Resources */ = {isa = PBXBuildFile; fileRef = 231CFEC9266936CDA907CB38 /* runnerJumpUp2.png */; };
 		231CF55F0A61FA76EE56E30F /* coin1.png in Resources */ = {isa = PBXBuildFile; fileRef = 231CFFB5296D138506B23B38 /* coin1.png */; };
 		231CF5B30823ACB186B80101 /* coin3.png in Resources */ = {isa = PBXBuildFile; fileRef = 231CF21EAADBAD67D583FE26 /* coin3.png */; };
-		231CF60E415196B8FE282C9E /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 231CF8CD12CBDF89A039FAEE /* readme.md */; };
 		231CF6843C8E8FC5BB6EC44A /* runner2.png in Resources */ = {isa = PBXBuildFile; fileRef = 231CF03E644E3A20641CC585 /* runner2.png */; };
 		231CF72709ECEC748DA2130B /* jump.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 231CF272D9B06797C964CEDC /* jump.mp3 */; };
 		231CF7B19425F71336ACE821 /* runnerJumpUp3.png in Resources */ = {isa = PBXBuildFile; fileRef = 231CF47E806ED8D5426A8C5F /* runnerJumpUp3.png */; };
@@ -124,7 +123,6 @@
 		231CF80FF3A65F7E4FC02A4C /* runner4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = runner4.png; sourceTree = "<group>"; };
 		231CF81371D97E0DAE578672 /* coin4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coin4.png; sourceTree = "<group>"; };
 		231CF87108D59B11D7C1B7C0 /* Ground00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ground00.png; sourceTree = "<group>"; };
-		231CF8CD12CBDF89A039FAEE /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = readme.md; sourceTree = "<group>"; };
 		231CF9221E462AEC7AE9211F /* SKTAudio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKTAudio.h; sourceTree = "<group>"; };
 		231CF928111F3E6A9500EA89 /* Map00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Map00.png; sourceTree = "<group>"; };
 		231CF92AC248353BCC09CCE1 /* coin0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coin0.png; sourceTree = "<group>"; };
@@ -221,7 +219,6 @@
 				2318678B1877AB24006CF24A /* Supporting Files */,
 				231CF9221E462AEC7AE9211F /* SKTAudio.h */,
 				231CF61C9505A8F5E6F7DD54 /* SKTAudio.m */,
-				231CF8CD12CBDF89A039FAEE /* readme.md */,
 			);
 			path = Parkour;
 			sourceTree = "<group>";
@@ -453,7 +450,6 @@
 				231CF261426588284B41900A /* crouch.mp3 in Resources */,
 				231CFA3EE1CEA8A1D6C5C38F /* background.mp3 in Resources */,
 				231CFBD98C7825F5D41606E5 /* pickup_coin.mp3 in Resources */,
-				231CF60E415196B8FE282C9E /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
