@@ -1,4 +1,7 @@
-Packour is a fully functional mini game which is developed using Sprite Kit. 
+spritekit-parkour
+=================
+
+Packour is a fully functional mini game which is developed using Sprite Kit.
 
 
 It has been used the following Sprite Kit features:
